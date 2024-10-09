@@ -1,0 +1,8 @@
+.navbar{
+    background-color: rgb(162, 216, 198) !important;
+    font-size: 25px;
+}
+
+nav ul li:hover{
+    background-color: #1b9458;
+}
